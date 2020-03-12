@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewReplicationAndroid</string>
+    <string name="ghar">3/d\'nLsf]</string>
+    <string-array name="types">
+        <item>0</item>
+        <item>१</item>
+        <item>२</item>
+        <item>३</item>
+        <item>४</item>
+        <item>५</item>
+        <item>६</item>
+        <item>७</item>
+        <item>८</item>
+        <item>९</item>
+        <item>१०</item>
+    </string-array>
+</resources>
